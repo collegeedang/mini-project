@@ -1,0 +1,63 @@
+.background {
+    background-image: url('background.png');
+    background-size:cover;
+}
+.title{
+    background-color: cornflowerblue;
+
+    margin:20px auto 0px auto;
+
+    font-size:70px;
+
+    text-align:center;
+
+    width:800px;
+
+    border-radius:20px;
+}
+.desc{
+    margin-left:150px;
+
+    font-size:40px;
+}
+.desc2{
+    margin-left:150px;
+
+    font-size:40px;
+}
+.desc3{
+    background-color:green;
+
+    margin:20px auto 0px auto;
+
+    color: red;
+
+    font-size:20px;
+
+    width:600px;
+}
+
+/*
+.mybtn {
+    width:800px;
+
+    margin:20px auto 0px auto;
+
+    margin-top:200px;
+
+    display:block;
+
+    font-size: 80px;
+
+    border-radius:20px;
+}
+.post-box {
+    background-color:green;
+
+    width:800px;
+
+    margin:20px auto 0px auto;
+
+    margin-top:50px;
+
+} */
